@@ -13,3 +13,5 @@
 2. You can give me opinions on anything (layout, sections arrangement, color scheme, animations etc.) by creating an issue in the issue tag (on the top of this page)
 
 3. The index page is ready to ship with proper server config
+
+4. Added another text only template (09/22/16), minimal images needed to start off. Access by clicking on 'See Another Template' button on the index.html page.
